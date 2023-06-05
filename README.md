@@ -4,7 +4,7 @@
 A Drum kit website where you can play the sound by click on the UI or by pressing the specified icons
 ## Demo
 
-
+https://github.com/tanmayR18/drum-kit/assets/135257857/0ca810f8-001f-4380-a518-e10bfd45d7ca
 
 
 ## Tech Stack
